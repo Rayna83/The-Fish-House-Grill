@@ -1,0 +1,118 @@
+/* .opening{
+    /* background-color: #eeeeee; */
+    /* color: #fbd46d;
+   } */ 
+
+   .opening{
+     background-color:  #4f8a8b;
+     border-style: double;
+    }
+ 
+   body {
+       font-family: "Montserrat";
+       text-align: center;
+     }
+
+     h1, h2, h3, h4, h5, h6 {
+      font-family: 'Noto Serif', serif;
+    }
+    
+     /* Navigation Bar */
+   
+   .navbar {
+       padding: 0 0 4.5rem;
+            }
+     
+     .navbar-brand {
+       font-size: 2.5rem;
+       font-weight: bold;
+     }
+     
+     .nav-item {
+       padding: 0 18px;
+     }
+     
+     .nav-link {
+       font-size: 1.2rem;
+       font-family: "Montserrat-Bold";
+       color: #fbd46d;
+     }
+     .title-image{
+      margin-bottom: 3rem;      
+      position: relative;
+       
+     }
+     /* Main Page */
+     .greeting{
+      font-family: 'Berkshire Swash', cursive;
+        text-align: center;
+         line-height: 3.5rem;
+         margin-bottom: 2rem auto;
+         padding: 7% 15%;
+     }
+    .lead{
+      font-family: 'Noto Serif', serif;
+      line-height: 3.5rem;
+      text-align: center;
+      margin: 2%;
+    }
+          
+      .options{
+        padding: 7% 25%;
+/*         
+        float: right; */
+      }
+
+        /* Menu Page */
+      .rounded-circle{
+           padding: 7% 5%;
+           margin-top: 20%;
+      }
+
+      .menu-items{
+            margin: 2% 5% 7%;
+         }
+      .pricing{
+        text-align: center;
+      }
+
+      /* Carousels */
+      /* .car-one{ */
+        /* background-color: #eeeeee; */
+        /* float: left; */
+        /* padding: 7% 35%; */
+        /* width: 10%; */
+        /* } 
+       
+          
+          /* padding: 7% 35%; */
+        .intro{
+          margin-left: 5px;
+        }
+        .container-fluid{
+          text-align: center;
+          
+        }
+      
+      .car-two{
+        background-color: #eeeeee;
+        padding: 7% 35%;
+        position: fixed;
+      }
+      .fa-2x {
+        padding: 30px;
+        
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+      }
+      
+  
+     .fa-2x:hover {
+        opacity: 0.7;
+     }
+     /* Locations */
+     .btn-group{
+       text-align: center;
+       margin-left: 17%;
+     }
