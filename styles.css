@@ -3,11 +3,16 @@
     /* color: #fbd46d;
    } */ 
 
-   .opening{
-     background-color:  #4f8a8b;
+    .opening{
+
+     /* background-color:  #4f8a8b; */
      border-style: double;
+     background-image: url(images/storefrontday.jpg);
+     background-size:100% 100%;
+     background-repeat: no-repeat;
+    
     }
- 
+    
    body {
        font-family: "Montserrat";
        text-align: center;
@@ -20,7 +25,14 @@
      /* Navigation Bar */
    
    .navbar {
-       padding: 0 0 4.5rem;
+       list-style: none;
+       font-weight: bold;
+       margin-bottom: 30%;
+       width: 100%;
+       text-align: center;
+       background-color: #000000;
+       height:40px;
+       margin-left: 0;
             }
      
      .navbar-brand {
